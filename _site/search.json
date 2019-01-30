@@ -20,6 +20,42 @@
   
     {
     
+	    "title"    : "Hähnchen-Hawaii-Spieße mit Salsa und Risotto",
+		"ingredients"    : "3 EL brauner Zucker, 1 EL Edelsüß-Paprika, 1 EL flüssiger Honig, 4 EL Olivenöl, 700g Hähnchenfilet, 1 Ananas, 6 Zwiebeln, 10 Scheiben Bacon, 1 Knoblauchzehe, 2 EL Butter, 100g Risottoreis, 500ml Gemüsebrühe, 1/2 Bund Lauchzwiebeln, 400g Tomaten, 2 rote Chillis, 4-5 Stiele Basilikum, 4 EL Öl, 6 lange Metallspieße, ",
+		"image"	   : "800x600.png",
+	    "url"      : "/recipes/haehnchenhawaii.html"
+      
+    } ,
+  
+    {
+    
+	    "title"    : "Hähnchenfleisch süß-sauer",
+		"ingredients"    : "40g Mehl, 45g + 1TL Speisestärke, 1/2 TL Backpulver, 120ml Wasser, 600g Hähnchenbrustfilet, 1/2 Zwiebel, 1 Knoblauchzehe, 20g Ingwer, 1 Dose Ananas in Scheiben, 60g Zucker, 50ml Italienischer Essig, 4 EL Tomaten Ketchup, 2-3 Frühlingszwiebeln, 1 rote/1 gelbe Paprika, 250g Basmati Reis, 1l Frittieröl, 1 EL Sonnenblumenöl, ",
+		"image"	   : "800x600.png",
+	    "url"      : "/recipes/haehnchensuesssauer.html"
+      
+    } ,
+  
+    {
+    
+	    "title"    : "Mit Honig gebackene Bratwürste mit Kartoffeln und Möhren",
+		"ingredients"    : "500g kleine dünnschalige Kartoffeln, 300g Möhren, 3 rote Zwiebeln, 4-5 Stiele Thymian, 250g Kirschtomaten, 1 EL flüssiger Honig, 2 EL heller Balsamico-Essig, 1 EL Öl, 4 ungebrühte Bratwürste, ",
+		"image"	   : "800x600.png",
+	    "url"      : "/recipes/honigbratwurst.html"
+      
+    } ,
+  
+    {
+    
+	    "title"    : "Schnelles Kartoffelcurry",
+		"ingredients"    : "300g TK Erbsen, 800g kleine Kartoffeln, 400g Hähnchenbrustfilet, 1 Knoblauchzehe, 120g Lauchzwiebeln, 2 EL Öl, 1 EL Currypulver, 600g Gemüsebrühe, 1 Dose (425ml) Kokosmilch, 2 EL Zitronensaft, ",
+		"image"	   : "800x600.png",
+	    "url"      : "/recipes/kartoffelcurry.html"
+      
+    } ,
+  
+    {
+    
 	    "title"    : "Lasagne",
 		"ingredients"    : "Lasagneblätter, Schmand, Geriebenen Käse, ",
 		"image"	   : "lasagne.jpg",
@@ -42,6 +78,24 @@
 		"ingredients"    : "250g Nudeln, ",
 		"image"	   : "800x600.png",
 	    "url"      : "/recipes/nudelnbolognese.html"
+      
+    } ,
+  
+    {
+    
+	    "title"    : "Ofengemüse mit Hähnchenschenkeln",
+		"ingredients"    : "3 rote Zwiebeln, 500g kleine Kartoffeln, 350g Brokkoli, 4 Tomaten, 250g Bundmöhren, 1 Zucchini, 1 1/2 EL gefriergetrocknete Kräuter der Provence, 1 Prise Zucker, 8 EL Olivenöl, 4 Hähnchenkeulen, 2 TL Edelsüß-Paprika, 1 1/2 EL brauner Zucker, 4 Stiele Basilikum, ",
+		"image"	   : "800x600.png",
+	    "url"      : "/recipes/ofengemuesemithaenchen.html"
+      
+    } ,
+  
+    {
+    
+	    "title"    : "Putenpasta in Zitronensoße",
+		"ingredients"    : "800g Brokkoli, 300g Putenschnitzel, 250g breite Bandnudeln, abgeriebene Schale + Saft von 1/2 Zitrone, 1 Zwiebel, 250ml Gemüsebrühe, Butter, 1 1/2 EL Mehl, 200ml Schlagsahne, Currypulver, 3 Halme Schnittlauch, ",
+		"image"	   : "800x600.png",
+	    "url"      : "/recipes/putenpasta.html"
       
     } ,
   
