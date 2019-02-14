@@ -6,6 +6,9 @@ image: ruby:2.3
 variables:
   JEKYLL_ENV: production
   
+before_script:
+  - gem install jekyll bundler
+  
 test:
   stage: test
   script:
