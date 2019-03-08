@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Bolognese"
-image: 800x600.png
+image: bolognese.jpg
 imagecredit: Wikipedia
 tags: soße, fleisch
 
