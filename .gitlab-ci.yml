@@ -1,25 +1,15 @@
-image: jekyll/jekyll
+image: docker:stable
 
-variables:
-  JEKYLL_ENV: production
-  
+build:
+  stage: build
+  script:
+   - docker build -t baswag/chowdown .
 test:
   stage: test
   script:
-  - jekyll build -d test
-  artifacts:
-    paths:
-    - test
-  except:
-  - master
-
-pages:
+   - docker run baswag/chowdown /bin/bash -c "cd /opt/chowdown; jekyll build -d test"
+  
+deploy:
   stage: deploy
   script:
-  - jekyll build -d public
-  artifacts:
-    paths:
-    - public
-  only:
-  - master
-
+   - docker run -p 4000:4000 --restart always -d baswag/chowdown /bin/bash -c "cd /opt/chowdown; jekyll serve"
