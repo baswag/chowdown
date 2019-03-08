@@ -1,2 +1,2 @@
 FROM jekyll/jekyll
-ADD * /opt/chowdown
+ADD * /opt/chowdown/
