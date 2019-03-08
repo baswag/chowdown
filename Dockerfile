@@ -1,3 +1,3 @@
 FROM jekyll/jekyll
-ADD * /opt/chowdown/
+COPY . /opt/chowdown/
 RUN chmod -R 777 /opt/chowdown/

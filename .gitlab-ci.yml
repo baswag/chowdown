@@ -3,6 +3,7 @@ image: docker:stable
 build:
   stage: build
   script:
+   - docker rm $(docker stop $(docker ps -a -q --filter ancestor=baswag/chowdown --format="{{.ID}}"))
    - docker build -t baswag/chowdown .
 test:
   stage: test
