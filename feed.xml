@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chowdown</title>
+    <description>The plain text recipe database for hackers</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 05 Oct 2019 10:31:28 +0200</pubDate>
+    <lastBuildDate>Sat, 05 Oct 2019 10:31:28 +0200</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Apfelwaffeln</title>
+        <description>
+</description>
+        <link>/recipes/apfelwaffeln.html</link>
+        <guid isPermaLink="true">/recipes/apfelwaffeln.html</guid>
+        
+        <category>nachtisch</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Gurkensalat</title>
+        <description>
+</description>
+        <link>/recipes/gurkensalat.html</link>
+        <guid isPermaLink="true">/recipes/gurkensalat.html</guid>
+        
+        <category>salat,</category>
+        
+        <category>beilage</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Hähnchen-Hawaii-Spieße mit Salsa und Risotto</title>
+        <description>
+</description>
+        <link>/recipes/haehnchenhawaii.html</link>
+        <guid isPermaLink="true">/recipes/haehnchenhawaii.html</guid>
+        
+        <category>mittagessen,</category>
+        
+        <category>fleisch,</category>
+        
+        <category>reis</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Hähnchenfleisch süß-sauer</title>
+        <description>
+</description>
+        <link>/recipes/haehnchensuesssauer.html</link>
+        <guid isPermaLink="true">/recipes/haehnchensuesssauer.html</guid>
+        
+        <category>mittagessen,</category>
+        
+        <category>fleisch</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Mit Honig gebackene Bratwürste mit Kartoffeln und Möhren</title>
+        <description>
+</description>
+        <link>/recipes/honigbratwurst.html</link>
+        <guid isPermaLink="true">/recipes/honigbratwurst.html</guid>
+        
+        <category>mittagessen,</category>
+        
+        <category>fleisch,</category>
+        
+        <category>gemüse</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Schnelles Kartoffelcurry</title>
+        <description>
+</description>
+        <link>/recipes/kartoffelcurry.html</link>
+        <guid isPermaLink="true">/recipes/kartoffelcurry.html</guid>
+        
+        <category>mittagessen,</category>
+        
+        <category>kartoffeln,</category>
+        
+        <category>fleisch</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Lasagne</title>
+        <description>
+</description>
+        <link>/recipes/lasagne.html</link>
+        <guid isPermaLink="true">/recipes/lasagne.html</guid>
+        
+        <category>mittagessen,</category>
+        
+        <category>käse,</category>
+        
+        <category>nudeln,</category>
+        
+        <category>fleisch</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Minutensteaks</title>
+        <description>
+</description>
+        <link>/recipes/minutensteak.html</link>
+        <guid isPermaLink="true">/recipes/minutensteak.html</guid>
+        
+        <category>mittagessen,</category>
+        
+        <category>fleisch</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Nudeln Bolognese</title>
+        <description>
+</description>
+        <link>/recipes/nudelnbolognese.html</link>
+        <guid isPermaLink="true">/recipes/nudelnbolognese.html</guid>
+        
+        <category>mittagessen,</category>
+        
+        <category>nudeln</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Ofengemüse mit Hähnchenschenkeln</title>
+        <description>
+</description>
+        <link>/recipes/ofengemuesemithaenchen.html</link>
+        <guid isPermaLink="true">/recipes/ofengemuesemithaenchen.html</guid>
+        
+        <category>mittagessen,</category>
+        
+        <category>gemüse,</category>
+        
+        <category>fleisch</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
